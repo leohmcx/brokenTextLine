@@ -4,8 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class BrokeLineTextService {
-//murilo.dourado@vigil.global
-//renato.obst@vigil.global
     public void brokeLines(final String text, final int quantity) {
         final String[] split = text.split(" ");
         int length = 0;
